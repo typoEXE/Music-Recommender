@@ -1,8 +1,4 @@
 
-# CS4800.03-PERS1-BE-NICK Music Recommender 
-
-
-
 ## Build and Deployment
 
 This music recommendation engine was created to be deployed via Microsoft Azure, specifically utilizing Azure Functions and Azure ML.
